@@ -3,7 +3,19 @@
 - import the important packages like sequrlize and express etc.
 - create server , root index , router and middlewear.
 - create /signin and /signup route .
-- and test the routes
+- and test the routes.
+
+
+## Path and body
+
+/signup
+
+/signin
+
+body{
+- username take string
+- password take string
+}
 
 ## Links
 
