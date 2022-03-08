@@ -19,7 +19,7 @@ async function basicAuth(req,res,next){
             res.status(403).send('user is not valid')
         }
     } catch(error) {
-        res.status(403).send(error)
+        res.status(403).send('user is not valid')
     }
 }
 
