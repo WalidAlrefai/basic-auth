@@ -8,6 +8,7 @@
 ## Links
 
 - [Pull Request ](https://github.com/WalidAlrefai/basic-auth/pull/1)
+- [New Pull Request](https://github.com/WalidAlrefai/basic-auth/pull/3)
 - [Heroku](https://walid-basic-auth.herokuapp.com/)
 - [Action](https://github.com/WalidAlrefai/basic-auth/actions)
 
